@@ -44,10 +44,8 @@ p{
 
 .profile-image{
     width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    height: auto;
     margin: 20px;
-    background-color: #4f4f4f;
     border: 5px solid rgb(0, 225, 11);
 }
 
